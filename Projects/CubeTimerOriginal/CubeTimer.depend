@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1456887543 source:c:\users\willis acer\documents\code_blocks\cubetimer\main.cpp
+	<iostream>
+	<time.h>
+	<stdlib.h>
+
+1456886370 c:\users\willis acer\documents\code_blocks\cubetimer\scramble.h
+
+1426299060 source:c:\users\willis acer\documents\code_blocks\cubetimer\scramble.cpp
+	<iostream>
+	<time.h>
+	<stdlib.h>
+	"Scramble.h"
+
