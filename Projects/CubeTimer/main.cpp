@@ -1,6 +1,7 @@
 #include <iostream>
 #include <time.h>
 #include <stdlib.h>
+#include "timer.h"
 
 using namespace std;
 
@@ -32,26 +33,16 @@ void scramble()
     cout << endl;
 }
 
-void timer()
-{
-    cin.ignore();
-    double start = clock();
-    cout << "TIMING" << endl;
-    cin.ignore();
-    cout << "Time = " << (clock() - start) / 1000 <<"seconds" << endl << endl;
-    cin.ignore();
-    cout << endl;
-}
-
 int main()
 {
+    Timer *timer = new Timer();
     cout << "Welcome to \"Cube Basic\" 3x3 Cube Scrambler and Timer By: roboalex7 \n";
     cin.ignore();
 
     beginning:
 
     scramble();
-    timer();
+    timer->RunTimer();
 
     bool repeat = true;
 

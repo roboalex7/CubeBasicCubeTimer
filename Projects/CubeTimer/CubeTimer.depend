@@ -12,8 +12,20 @@
 	<stdlib.h>
 	"Scramble.h"
 
-1456887543 source:c:\users\willis acer\documents\github\cubebasiccubetimer\projects\cubetimer\main.cpp
+1456930330 source:c:\users\willis acer\documents\github\cubebasiccubetimer\projects\cubetimer\main.cpp
 	<iostream>
 	<time.h>
 	<stdlib.h>
+	"timer.h"
+
+1456942378 c:\users\willis acer\documents\github\cubebasiccubetimer\projects\cubetimer\timer.h
+	<time.h>
+
+1456890194 source:c:\users\willis acer\documents\github\cubebasiccubetimer\projects\cubetimer\scramble.cpp
+
+1456931420 source:c:\users\willis acer\documents\github\cubebasiccubetimer\projects\cubetimer\timer.cpp
+	<iostream>
+	<time.h>
+	<stdlib.h>
+	"timer.h"
 
