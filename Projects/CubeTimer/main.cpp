@@ -30,17 +30,17 @@ void scramble()
     }
 
     cout << endl;
-    cout << endl;
 }
 
 void timer()
 {
     cin.ignore();
-    cin.ignore();
     double start = clock();
     cout << "TIMING" << endl;
     cin.ignore();
     cout << "Time = " << (clock() - start) / 1000 <<"seconds" << endl << endl;
+    cin.ignore();
+    cout << endl;
 }
 
 int main()
@@ -53,10 +53,7 @@ int main()
     scramble();
     timer();
 
-    bool repeat = false;
-
-    cout << "New Scramble? (1 = Y, 0 = N) \n";
-    cin >> repeat;
+    bool repeat = true;
 
     if(repeat == true)
     goto beginning;
