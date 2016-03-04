@@ -12,9 +12,8 @@
 	<stdlib.h>
 	"Scramble.h"
 
-1456945527 source:c:\users\willis acer\documents\github\cubebasiccubetimer\projects\cubetimer\main.cpp
+1457037765 source:c:\users\willis acer\documents\github\cubebasiccubetimer\projects\cubetimer\main.cpp
 	<iostream>
-	<time.h>
 	<stdlib.h>
 	"timer.h"
 	"scramble.h"
@@ -22,7 +21,11 @@
 1456942378 c:\users\willis acer\documents\github\cubebasiccubetimer\projects\cubetimer\timer.h
 	<time.h>
 
-1456890194 source:c:\users\willis acer\documents\github\cubebasiccubetimer\projects\cubetimer\scramble.cpp
+1457038382 source:c:\users\willis acer\documents\github\cubebasiccubetimer\projects\cubetimer\scramble.cpp
+	<iostream>
+	<time.h>
+	<stdlib.h>
+	"scramble.h"
 
 1456931420 source:c:\users\willis acer\documents\github\cubebasiccubetimer\projects\cubetimer\timer.cpp
 	<iostream>
@@ -31,4 +34,12 @@
 	"timer.h"
 
 1456944988 c:\users\willis acer\documents\github\cubebasiccubetimer\projects\cubetimer\scramble.h
+
+1457037809 source:c:\users\willis acer\documents\github\cubebasiccubetimer\projects\cubetimer\stats.cpp
+	<iostream>
+	<time.h>
+	<stdlib.h>
+	"stats.h"
+
+1457037662 c:\users\willis acer\documents\github\cubebasiccubetimer\projects\cubetimer\stats.h
 

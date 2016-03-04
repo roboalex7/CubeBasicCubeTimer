@@ -1,5 +1,5 @@
 #include <iostream>
-#include <time.h>
+//#include <time.h>
 #include <stdlib.h>
 #include "timer.h"
 #include "scramble.h"

@@ -16,7 +16,7 @@ void Scrambler::Scramble3x3()
 {
     for (int i = 1; i <= 25; i = i + 1)
     {
-        char oldch = 'A';
+        char oldch;
 
         label:
 
@@ -27,6 +27,7 @@ void Scrambler::Scramble3x3()
         goto label;
 
         cout << ch;
+        //out << ch << " , " << oldch << endl;
 
         oldch = ch;
 
