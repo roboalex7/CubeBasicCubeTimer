@@ -2,32 +2,6 @@
 <CodeBlocks_layout_file>
 	<FileVersion major="1" minor="0" />
 	<ActiveTarget name="Debug" />
-	<File name="main.cpp" open="1" top="1" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="521" topLine="0" />
-		</Cursor>
-	</File>
-	<File name="scramble.h" open="1" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="390" topLine="0" />
-		</Cursor>
-	</File>
-	<File name="stats.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="38" topLine="0" />
-		</Cursor>
-	</File>
-	<File name="scramble.cpp" open="1" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="3531" topLine="56" />
-		</Cursor>
-		<Folding>
-			<Collapse line="17" />
-			<Collapse line="46" />
-			<Collapse line="75" />
-			<Collapse line="110" />
-		</Folding>
-	</File>
 	<File name="timer.h" open="0" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
 		<Cursor>
 			<Cursor1 position="0" topLine="0" />
@@ -35,5 +9,32 @@
 		<Folding>
 			<Collapse line="0" />
 		</Folding>
+	</File>
+	<File name="scramble.h" open="1" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="390" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="scramble.cpp" open="1" top="1" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="4732" topLine="82" />
+		</Cursor>
+		<Folding>
+			<Collapse line="17" />
+			<Collapse line="46" />
+			<Collapse line="75" />
+			<Collapse line="110" />
+			<Collapse line="145" />
+		</Folding>
+	</File>
+	<File name="main.cpp" open="1" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="379" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="stats.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="38" topLine="0" />
+		</Cursor>
 	</File>
 </CodeBlocks_layout_file>

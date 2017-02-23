@@ -140,6 +140,8 @@ void Scrambler::Scramble5x5()
     cout << endl;
 }
 
+
+
 void Scrambler::Scramble6x6()
 {
     for (int i = 1; i <= 80; i = i + 1)
@@ -219,6 +221,32 @@ void Scrambler::Scramble7x7()
 
 
         char mlut[] = { '\'', ' ', '2' };
+        char mod = mlut[rand() % sizeof(mlut)];
+
+        cout << mod << " ";
+    }
+    cout << endl;
+}
+
+void Scrambler::ScramblePyraMinx()
+{
+    for (int i = 1; i <= 12; i = i + 1)
+    {
+        char oldch;
+
+        label:
+
+        char clut[] = { 'R','U','B','L'};
+        char ch = clut[rand() % sizeof(clut)];
+
+        if(ch == oldch)
+        goto label;
+
+        cout << ch;
+
+        oldch = ch;
+
+        char mlut[] = { '\'', ' '};
         char mod = mlut[rand() % sizeof(mlut)];
 
         cout << mod << " ";
