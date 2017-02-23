@@ -43,3 +43,28 @@
 
 1457037662 c:\users\willis acer\documents\github\cubebasiccubetimer\projects\cubetimer\stats.h
 
+1487810080 source:c:\users\alex willis\documents\github\cubebasiccubetimer\projects\cubetimer\stats.cpp
+	<iostream>
+	<time.h>
+	<stdlib.h>
+	"stats.h"
+
+1487810080 c:\users\alex willis\documents\github\cubebasiccubetimer\projects\cubetimer\stats.h
+
+1487810080 source:c:\users\alex willis\documents\github\cubebasiccubetimer\projects\cubetimer\timer.cpp
+	<iostream>
+	<time.h>
+	<stdlib.h>
+	"timer.h"
+
+1487810080 c:\users\alex willis\documents\github\cubebasiccubetimer\projects\cubetimer\timer.h
+	<time.h>
+
+1487864412 source:c:\users\alex willis\documents\github\cubebasiccubetimer\projects\cubetimer\main.cpp
+	<iostream>
+	<stdlib.h>
+	"timer.h"
+	"scramble.h"
+
+1487820925 c:\users\alex willis\documents\github\cubebasiccubetimer\projects\cubetimer\scramble.h
+

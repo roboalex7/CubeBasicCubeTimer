@@ -17,9 +17,12 @@ int main()
 
     beginning:
 
-    scrambler->Scramble2x2();
-    scrambler->Scramble3x3();
-    scrambler->Scramble4x4();
+//    scrambler->Scramble2x2();
+//    scrambler->Scramble3x3();
+//    scrambler->Scramble4x4();
+//    scrambler->Scramble5x5();
+        scrambler->Scramble6x6();
+        scrambler->Scramble7x7();
 
     timer->RunTimer();
 
