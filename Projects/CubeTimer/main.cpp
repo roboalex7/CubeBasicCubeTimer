@@ -17,7 +17,10 @@ int main()
 
     beginning:
 
+    scrambler->Scramble2x2();
     scrambler->Scramble3x3();
+    scrambler->Scramble4x4();
+
     timer->RunTimer();
 
     bool repeat = true;
