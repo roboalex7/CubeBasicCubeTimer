@@ -18,6 +18,8 @@ public:
     void ScramblePyraMinx();
     void ScrambleSkewb();
 private:
+    char GetFace();
+    char GetDirection();
     //private methods go here
 };
 

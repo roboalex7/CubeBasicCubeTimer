@@ -6,8 +6,6 @@
 
 using namespace std;
 
-
-
 int main()
 {
     Timer *timer = new Timer();
@@ -17,7 +15,7 @@ int main()
 
     beginning:
 
-    scrambler->ScramblePyraMinx();
+    scrambler->Scramble3x3();
     timer->RunTimer();
 
     bool repeat = true;
