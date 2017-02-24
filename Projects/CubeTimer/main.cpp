@@ -18,7 +18,6 @@ int main()
     beginning:
 
     scrambler->ScramblePyraMinx();
-
     timer->RunTimer();
 
     bool repeat = true;

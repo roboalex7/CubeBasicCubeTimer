@@ -60,11 +60,17 @@
 1487810080 c:\users\alex willis\documents\github\cubebasiccubetimer\projects\cubetimer\timer.h
 	<time.h>
 
-1487865228 source:c:\users\alex willis\documents\github\cubebasiccubetimer\projects\cubetimer\main.cpp
+1487895267 source:c:\users\alex willis\documents\github\cubebasiccubetimer\projects\cubetimer\main.cpp
 	<iostream>
 	<stdlib.h>
 	"timer.h"
 	"scramble.h"
 
 1487820925 c:\users\alex willis\documents\github\cubebasiccubetimer\projects\cubetimer\scramble.h
+
+1487893580 source:c:\users\alex willis\documents\github\cubebasiccubetimer\projects\cubetimer\scramble.cpp
+	<iostream>
+	<time.h>
+	<stdlib.h>
+	"scramble.h"
 

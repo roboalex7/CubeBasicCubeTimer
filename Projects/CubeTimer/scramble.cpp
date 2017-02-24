@@ -251,5 +251,27 @@ void Scrambler::ScramblePyraMinx()
 
         cout << mod << " ";
     }
+
+    int numlut[4] = {1,2,3,4};
+    int numTip = numlut[rand() % (sizeof(numlut) / sizeof(int))];
+
+    for (int i = 1; i <= numTip; i = i + 1)
+    {
+        char oldTip;
+
+        tipLabel:
+
+        char tlut[] = { 'r','u','b','l'};
+        char tip = tlut[rand() % sizeof(tlut)];
+
+        if(tip == oldTip)
+        goto tipLabel;
+        oldTip = tip;
+
+        char mlut[] = { '\'', ' '};
+        char mod = mlut[rand() % sizeof(mlut)];
+
+        cout << tip << mod << " ";
+    }
     cout << endl;
 }
